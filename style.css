@@ -1,0 +1,20 @@
+* { margin: 0px; padding: 0px; border: 0px; box-sizing: border-box; text-decoration: none; outline: 0px; }
+body { background-color: rgb(245, 239, 233); }
+.form { width: 40%; background-color: rgb(247, 216, 176); text-align: center; margin: 89px auto; padding: 39px; border-radius: 124px; }
+.img {width: 124px;margin-top: 38px;margin-bottom: 10px;border-radius: 50%;}
+.form p {text-transform: capitalize;font-size: 20px;word-spacing: 3px;}
+.form a{
+    text-decoration: underline;
+    color: maroon;
+}
+.username {width: 100%;border: 2px dashed rgba(167, 92, 31, 0.74);text-align: start;padding: 8px;margin-bottom: 15px;border-radius: 50px;}
+.username input { background-color: transparent; font-size: 18px; }
+.username i { float: right; font-size: 20px; }
+.password {width: 100%;border: 2px dashed rgba(167, 92, 31, 0.74);text-align: start;padding: 8px;margin-bottom: 15px;border-radius: 50px;}
+.password input { background-color: transparent; font-size: 18px; }
+.password i { float: right; font-size: 20px; }
+.checkbox {margin-bottom: 28px;width: 100%;padding: 8px;}
+.checkbox input {float: left;width: 20px;margin: 2px;}
+.checkbox label { float: left; text-transform: capitalize; }
+.checkbox a { text-transform: capitalize; color: red; float: right; }
+input[type="submit"] {margin-bottom: 21px;text-transform: uppercase;width: 100%;background-color: maroon;color: white;padding: 7px;font-size: 21px;border: 2px solid white;border-style: dotted;border-radius: 50px;}
